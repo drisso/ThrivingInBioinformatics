@@ -1,11 +1,10 @@
-# Automated scholarly manuscripts on GitHub
+# Ten Simple Rules for Thriving in Bioinformatics Research
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://drisso.github.io/ThrivingInBioinformatics/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/drisso/ThrivingInBioinformatics/workflows/Manubot/badge.svg)](https://github.com/drisso/ThrivingInBioinformatics/actions)
-[![Travis Build Status](https://travis-ci.com/drisso/ThrivingInBioinformatics.svg?branch=master)](https://travis-ci.com/drisso/ThrivingInBioinformatics)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
