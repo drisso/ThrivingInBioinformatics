@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/c10adebbc55e6347c6c3d864b73cd10064fa60b8/" />
+  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/c10adebbc55e6347c6c3d864b73cd10064fa60b8/" />
+  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/c10adebbc55e6347c6c3d864b73cd10064fa60b8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/c10adebbc55e6347c6c3d864b73cd10064fa60b8/))
+([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/))
 was automatically generated
-from [drisso/ThrivingInBioinformatics@c10adeb](https://github.com/drisso/ThrivingInBioinformatics/tree/c10adebbc55e6347c6c3d864b73cd10064fa60b8)
+from [drisso/ThrivingInBioinformatics@be3565a](https://github.com/drisso/ThrivingInBioinformatics/tree/be3565afccc290d27c677f6dfce43a7275275ab6)
 on July 29, 2020.
 </em></small>
 
