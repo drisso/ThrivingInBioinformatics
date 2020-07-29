@@ -2,6 +2,7 @@
 author-meta:
 - Davide Risso
 - Federico Marini
+- Charlotte Soneson
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -58,6 +59,16 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@FedeBioinfo" />
 
+  <meta name="citation_author" content="Charlotte Soneson" />
+
+  <meta name="citation_author_institution" content="Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland" />
+
+  <meta name="citation_author_institution" content="SIB Swiss Institute for Bioinformatics, Basel, Switzerland" />
+
+  <meta name="citation_author_orcid" content="0000-0003-3833-2169" />
+
+  <meta name="twitter:creator" content="@CSoneson" />
+
   <meta name="citation_author" content="Jane Roe" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
@@ -78,11 +89,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/" />
+  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/" />
+  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -114,9 +125,9 @@ title: Ten Simple Rules for Thriving in Bioinformatics Research
 
 <small><em>
 This manuscript
-([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/))
+([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/))
 was automatically generated
-from [drisso/ThrivingInBioinformatics@8875933](https://github.com/drisso/ThrivingInBioinformatics/tree/88759333f3f3bd1395093c89e2d3e6159400a98b)
+from [drisso/ThrivingInBioinformatics@5c8a860](https://github.com/drisso/ThrivingInBioinformatics/tree/5c8a860ddbf537ef6ffa409a08716688bddd378f)
 on July 29, 2020.
 </em></small>
 
@@ -146,6 +157,17 @@ on July 29, 2020.
   <small>
      Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany; Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany
      · Funded by German Federal Ministry of Education and Research (BMBF 01EO1003)
+  </small>
+
++ **Charlotte Soneson**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3833-2169](https://orcid.org/0000-0003-3833-2169)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [csoneson](https://github.com/csoneson)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [CSoneson](https://twitter.com/CSoneson)<br>
+  <small>
+     Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland; SIB Swiss Institute for Bioinformatics, Basel, Switzerland
   </small>
 
 + **Jane Roe**<br>
