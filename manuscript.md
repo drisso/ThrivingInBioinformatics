@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Davide Risso
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Ten Simple Rules for Thriving in Bioinformatics Research" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Ten Simple Rules for Thriving in Bioinformatics Research" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Ten Simple Rules for Thriving in Bioinformatics Research" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Ten Simple Rules for Thriving in Bioinformatics Research" />
 
   <meta name="dc.date" content="2020-07-29" />
 
@@ -39,13 +39,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Davide Risso" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Statistical Sciences, University of Padova, Padova, Italy." />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0001-8508-5012" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@drisso1893" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/" />
+  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/" />
+  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +85,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
+- ten simple rules
+- bioinformatics
 - manubot
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Ten Simple Rules for Thriving in Bioinformatics Research
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/be3565afccc290d27c677f6dfce43a7275275ab6/))
+([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/))
 was automatically generated
-from [drisso/ThrivingInBioinformatics@be3565a](https://github.com/drisso/ThrivingInBioinformatics/tree/be3565afccc290d27c677f6dfce43a7275275ab6)
+from [drisso/ThrivingInBioinformatics@e68c731](https://github.com/drisso/ThrivingInBioinformatics/tree/e68c7315b4778d06f4ee24fc9a569f51364a247b)
 on July 29, 2020.
 </em></small>
 
@@ -113,16 +113,16 @@ on July 29, 2020.
 
 
 
-+ **John Doe**<br>
++ **Davide Risso**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-8508-5012](https://orcid.org/0000-0001-8508-5012)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [drisso](https://github.com/drisso)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [drisso1893](https://twitter.com/drisso1893)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Statistical Sciences, University of Padova, Padova, Italy.
+     · Funded by Programma per Giovani Ricercatori Rita Levi Montalcini granted by the Italian Ministry of Education, University, and Research.
   </small>
 
 + **Jane Roe**<br>
