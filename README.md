@@ -2,18 +2,25 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/rootstock/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/rootstock/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/manubot/rootstock/workflows/Manubot/badge.svg)](https://github.com/manubot/rootstock/actions)
-[![Travis Build Status](https://travis-ci.com/manubot/rootstock.svg?branch=master)](https://travis-ci.com/manubot/rootstock)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://drisso.github.io/ThrivingInBioinformatics/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/drisso/ThrivingInBioinformatics/workflows/Manubot/badge.svg)](https://github.com/drisso/ThrivingInBioinformatics/actions)
+[![Travis Build Status](https://travis-ci.com/drisso/ThrivingInBioinformatics.svg?branch=master)](https://travis-ci.com/drisso/ThrivingInBioinformatics)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository contains the current draft of the manuscript tentatively titled "Ten Simple Rules for Thriving in Bioinformatics Research", started from conversations during a e-Rum2020 thematic lounge and a Bioc2020 Birds of a Feather session.
+
+## How to contribute to the writing of this paper (the easy way)
+
+- On GitHub, go to the [Content folder](https://github.com/drisso/ThrivingInBioinformatics/tree/master/content) and make changes to a specific section by editing the document online directly. You will need to write in md format, see [examples](https://github.com/manubot/rootstock/blob/master/content/02.delete-me.md).
+- Briefly document change if needed and create a pull request.
+- Expect some lag before the document is updated.
+- Done!
+
 
 ## Manubot
 
@@ -79,11 +86,11 @@ Whenever a pull request is opened, CI (continuous integration) will test whether
 The build process aims to detect common errors, such as invalid citations.
 If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
 
-When a commit to the `master` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) and [`output`](https://github.com/manubot/rootstock/tree/output) branches.
+When a commit to the `master` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/drisso/ThrivingInBioinformatics/tree/gh-pages) and [`output`](https://github.com/drisso/ThrivingInBioinformatics/tree/output) branches.
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
-+ **HTML manuscript** at https://manubot.github.io/rootstock/
-+ **PDF manuscript** at https://manubot.github.io/rootstock/manuscript.pdf
++ **HTML manuscript** at https://drisso.github.io/ThrivingInBioinformatics/
++ **PDF manuscript** at https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml) if using GitHub Actions or [`.travis.yml`](.travis.yml) if using Travis CI.
 
@@ -98,7 +105,7 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/manubot/rootstock.
+Please attribute by linking to https://github.com/drisso/ThrivingInBioinformatics.
 
 Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
@@ -118,4 +125,4 @@ All other files are only available under CC BY 4.0, including:
 + `*.pdf`
 + `*.docx`
 
-Please open [an issue](https://github.com/manubot/rootstock/issues) for any question related to licensing.
+Please open [an issue](https://github.com/drisso/ThrivingInBioinformatics/issues) for any question related to licensing.
