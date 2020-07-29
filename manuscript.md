@@ -1,6 +1,7 @@
 ---
 author-meta:
 - Davide Risso
+- Federico Marini
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -47,6 +48,16 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@drisso1893" />
 
+  <meta name="citation_author" content="Federico Marini" />
+
+  <meta name="citation_author_institution" content="Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany" />
+
+  <meta name="citation_author_institution" content="Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany" />
+
+  <meta name="citation_author_orcid" content="0000-0003-3252-7758" />
+
+  <meta name="twitter:creator" content="@FedeBioinfo" />
+
   <meta name="citation_author" content="Jane Roe" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
@@ -67,11 +78,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/" />
+  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/" />
+  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +114,9 @@ title: Ten Simple Rules for Thriving in Bioinformatics Research
 
 <small><em>
 This manuscript
-([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/))
+([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/))
 was automatically generated
-from [drisso/ThrivingInBioinformatics@e68c731](https://github.com/drisso/ThrivingInBioinformatics/tree/e68c7315b4778d06f4ee24fc9a569f51364a247b)
+from [drisso/ThrivingInBioinformatics@8875933](https://github.com/drisso/ThrivingInBioinformatics/tree/88759333f3f3bd1395093c89e2d3e6159400a98b)
 on July 29, 2020.
 </em></small>
 
@@ -123,6 +134,18 @@ on July 29, 2020.
   <small>
      Department of Statistical Sciences, University of Padova, Padova, Italy.
      · Funded by Programma per Giovani Ricercatori Rita Levi Montalcini granted by the Italian Ministry of Education, University, and Research.
+  </small>
+
++ **Federico Marini**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3252-7758](https://orcid.org/0000-0003-3252-7758)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [federicomarini](https://github.com/federicomarini)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [FedeBioinfo](https://twitter.com/FedeBioinfo)<br>
+  <small>
+     Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany; Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany
+     · Funded by German Federal Ministry of Education and Research (BMBF 01EO1003)
   </small>
 
 + **Jane Roe**<br>

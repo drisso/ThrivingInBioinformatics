@@ -10,9 +10,10 @@
     "date-meta": "2020-07-29",
     "author-meta": [
       "Davide Risso",
+      "Federico Marini",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta name=\"citation_title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta property=\"og:title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta property=\"twitter:title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta name=\"dc.date\" content=\"2020-07-29\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-29\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Davide Risso\" />\n<meta name=\"citation_author_institution\" content=\"Department of Statistical Sciences, University of Padova, Padova, Italy.\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8508-5012\" />\n<meta name=\"twitter:creator\" content=\"@drisso1893\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta property=\"og:url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta property=\"twitter:url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta name=\"citation_pdf_url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta name=\"citation_title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta property=\"og:title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta property=\"twitter:title\" content=\"Ten Simple Rules for Thriving in Bioinformatics Research\" />\n<meta name=\"dc.date\" content=\"2020-07-29\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-29\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Davide Risso\" />\n<meta name=\"citation_author_institution\" content=\"Department of Statistical Sciences, University of Padova, Padova, Italy.\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8508-5012\" />\n<meta name=\"twitter:creator\" content=\"@drisso1893\" />\n<meta name=\"citation_author\" content=\"Federico Marini\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany\" />\n<meta name=\"citation_author_institution\" content=\"Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3252-7758\" />\n<meta name=\"twitter:creator\" content=\"@FedeBioinfo\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta property=\"og:url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta property=\"twitter:url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/\" />\n<meta name=\"citation_pdf_url\" content=\"https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -42,6 +43,25 @@
         ]
       },
       {
+        "github": "federicomarini",
+        "name": "Federico Marini",
+        "initials": "FM",
+        "orcid": "0000-0003-3252-7758",
+        "twitter": "FedeBioinfo",
+        "email": "marinif@uni-mainz.de",
+        "affiliations": [
+          "Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany",
+          "Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany"
+        ],
+        "funders": [
+          "German Federal Ministry of Education and Research (BMBF 01EO1003)"
+        ],
+        "affiliation_numbers": [
+          2,
+          3
+        ]
+      },
+      {
         "github": "janeroe",
         "name": "Jane Roe",
         "initials": "JR",
@@ -52,8 +72,8 @@
           "Department of Whatever, University of Something"
         ],
         "affiliation_numbers": [
-          2,
-          3
+          4,
+          5
         ]
       }
     ],
@@ -63,12 +83,20 @@
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center Mainz, Mainz, Germany",
         "affiliation_number": 2
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany",
         "affiliation_number": 3
+      },
+      {
+        "affiliation": "Department of Something, University of Whatever",
+        "affiliation_number": 4
+      },
+      {
+        "affiliation": "Department of Whatever, University of Something",
+        "affiliation_number": 5
       }
     ],
     "ci_source": {
@@ -76,15 +104,15 @@
       "repo_slug": "drisso/ThrivingInBioinformatics",
       "repo_owner": "drisso",
       "repo_name": "ThrivingInBioinformatics",
-      "commit": "e68c7315b4778d06f4ee24fc9a569f51364a247b",
-      "triggering_commit": "e68c7315b4778d06f4ee24fc9a569f51364a247b",
-      "build_url": "https://github.com/drisso/ThrivingInBioinformatics/commit/e68c7315b4778d06f4ee24fc9a569f51364a247b/checks",
+      "commit": "88759333f3f3bd1395093c89e2d3e6159400a98b",
+      "triggering_commit": "88759333f3f3bd1395093c89e2d3e6159400a98b",
+      "build_url": "https://github.com/drisso/ThrivingInBioinformatics/commit/88759333f3f3bd1395093c89e2d3e6159400a98b/checks",
       "job_url": "https://github.com/drisso/ThrivingInBioinformatics/runs/run3"
     },
     "html_url": "https://drisso.github.io/ThrivingInBioinformatics/",
     "pdf_url": "https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf",
-    "html_url_versioned": "https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/",
-    "pdf_url_versioned": "https://drisso.github.io/ThrivingInBioinformatics/v/e68c7315b4778d06f4ee24fc9a569f51364a247b/manuscript.pdf",
+    "html_url_versioned": "https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/",
+    "pdf_url_versioned": "https://drisso.github.io/ThrivingInBioinformatics/v/88759333f3f3bd1395093c89e2d3e6159400a98b/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc",
     "manuscript_stats": {
