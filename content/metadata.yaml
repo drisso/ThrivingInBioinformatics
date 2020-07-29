@@ -27,6 +27,15 @@ authors:
       - Center for Thrombosis and Hemostasis Mainz (CTH) Mainz, Mainz, Germany
     funders:
       - German Federal Ministry of Education and Research (BMBF 01EO1003)
+  - github: csoneson
+    name: Charlotte Soneson
+    initials: CS
+    orcid: 0000-0003-3833-2169
+    twitter: CSoneson
+    email: charlotte.soneson@fmi.ch
+    affiliations:
+      - Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland
+      - SIB Swiss Institute for Bioinformatics, Basel, Switzerland
   - github: janeroe
     name: Jane Roe
     initials: JR
