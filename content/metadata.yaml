@@ -1,21 +1,21 @@
 ---
-title: "Manuscript Title"
+title: "Ten Simple Rules for Thriving in Bioinformatics Research"
 keywords:
-  - markdown
-  - publishing
+  - ten simple rules
+  - bioinformatics
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: drisso
+    name: Davide Risso
+    initials: DR
+    orcid: 0000-0001-8508-5012
+    twitter: drisso1893
+    email: davide.risso@unipd.it
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Statistical Sciences, University of Padova, Padova, Italy.
     funders:
-      - Grant XXXXXXXX
+      - "Programma per Giovani Ricercatori Rita Levi Montalcini" granted by the Italian Ministry of Education, University, and Research.
   - github: janeroe
     name: Jane Roe
     initials: JR
