@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/drisso/ThrivingInBioinformatics/tree/gh-pages) branch hosts the contents of this directory at <https://drisso.github.io/ThrivingInBioinformatics/>.
-The permalink for this webpage version is <https://drisso.github.io/ThrivingInBioinformatics/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/>.
+The permalink for this webpage version is <https://drisso.github.io/ThrivingInBioinformatics/v/c10adebbc55e6347c6c3d864b73cd10064fa60b8/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://drisso.github.io/ThrivingInBioinformatics/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc`](https://github.com/drisso/ThrivingInBioinformatics/commit/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc).
+[`c10adebbc55e6347c6c3d864b73cd10064fa60b8`](https://github.com/drisso/ThrivingInBioinformatics/commit/c10adebbc55e6347c6c3d864b73cd10064fa60b8).
