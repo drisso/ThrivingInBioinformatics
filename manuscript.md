@@ -89,11 +89,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://drisso.github.io/ThrivingInBioinformatics/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/" />
+  <link rel="alternate" type="text/html" href="https://drisso.github.io/ThrivingInBioinformatics/v/9e4980287fdc59349dffa8cb235a553bf05a7f9e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/" />
+  <meta name="manubot_html_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/9e4980287fdc59349dffa8cb235a553bf05a7f9e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://drisso.github.io/ThrivingInBioinformatics/v/9e4980287fdc59349dffa8cb235a553bf05a7f9e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -125,9 +125,9 @@ title: Ten Simple Rules for Thriving in Bioinformatics Research
 
 <small><em>
 This manuscript
-([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/5c8a860ddbf537ef6ffa409a08716688bddd378f/))
+([permalink](https://drisso.github.io/ThrivingInBioinformatics/v/9e4980287fdc59349dffa8cb235a553bf05a7f9e/))
 was automatically generated
-from [drisso/ThrivingInBioinformatics@5c8a860](https://github.com/drisso/ThrivingInBioinformatics/tree/5c8a860ddbf537ef6ffa409a08716688bddd378f)
+from [drisso/ThrivingInBioinformatics@9e49802](https://github.com/drisso/ThrivingInBioinformatics/tree/9e4980287fdc59349dffa8cb235a553bf05a7f9e)
 on July 29, 2020.
 </em></small>
 
@@ -183,7 +183,75 @@ on July 29, 2020.
 
 ## Abstract {.page_break_before}
 
+lorem ipsum
 
+## Introduction
+
+lorem ipsum
+
+<!-- If required... -->
+
+### Author summary
+
+lorem ipsum
+
+<!-- If required... -->
+
+
+## Rule 1: lorem ipsum
+
+lorem ipsum
+
+## Rule 2: lorem ipsum
+
+lorem ipsum
+
+## Rule 3: lorem ipsum
+
+lorem ipsum
+
+## Rule 4: lorem ipsum
+
+lorem ipsum
+
+## Rule 5: lorem ipsum
+
+lorem ipsum
+
+## Rule 6: lorem ipsum
+
+lorem ipsum
+
+## Rule 7: lorem ipsum
+
+lorem ipsum
+
+## Rule 8: lorem ipsum
+
+lorem ipsum
+
+## Rule 9: lorem ipsum
+
+lorem ipsum
+
+## Rule 10: lorem ipsum
+
+lorem ipsum
+
+
+
+
+## Conclusion
+
+lorem ipsum
+
+<!-- If required... -->
+<!-- could also be called "Concluding remarks" -->
+
+
+### Acknowledgments
+
+We are grateful to/would like to acknowledge...
 
 
 ## References {.page_break_before}
